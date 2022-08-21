@@ -7,7 +7,7 @@ full stack developer
 i have been learning coding for 2yrs now i am still currently and undergraduate i have no experience in the real world yet
 
 * 🌍  I'm based in nigeria
-* 🖥️  See my portfolio at [my portfolio](http://raji.netlify.app)
+* 🖥️  See my portfolio at [my portfolio](http://rajiport.netlify.app)
 * ✉️  You can contact me at [kingraj1344@gmail.com](mailto:kingraj1344@gmail.com)
 * 🧠  I'm learning node.js
 * 🤝  I'm open to collaborating on any web dev project
