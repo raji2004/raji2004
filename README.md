@@ -7,10 +7,14 @@ Fullstack Developer
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [kingraj1344@gmail.com](mailto:kingraj1344@gmail.com)
 *   🧠  I'm learning typescript
-*   🤝  I'm open to collaborating on webdev projects<a href="https://www.twitter.com/kingraj1344" target="_blank" rel="noreferrer"><img
+*   🤝  I'm open to collaborating on webdev projects
+
+<a href="https://www.twitter.com/kingraj1344" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kingraj1344?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
                 /></a><a href="https://www.github.com/raji2004" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/raji2004?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/raji2004?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" />
+                  
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
