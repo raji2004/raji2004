@@ -1,4 +1,4 @@
-Hi 👋 My name is muhammad muzzammil raji
+Hi 👋 My name is Muhammad Muzzammil Raji
 ========================================
 
 Fullstack Developer
